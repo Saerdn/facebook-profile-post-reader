@@ -1,7 +1,7 @@
 # facebook-profile-post-reader
 ##Reads posts of (public) Facebook profiles##
 A (very) simple reader that allows you to read posts of (public) pofiles.
-The data is written into into a MySQL table.  
+The data is written into a MySQL table.  
   
 Remember to edit the config.php file :)  
   
